@@ -1,11 +1,10 @@
-# Algorithmic_Trading_Machine_Learning
+# Algorithmic_Trading_Strategies
 
-* Project 1 - Unsupervised Learning Trading Strategy
-* Project 2 - Twitter Sentiment Trading Strategy
-* Project 3 - Intraday GARCH Trading Strategy
+* Project-1 - Equal Weight S&P500 Index Fund
+* Project 2 - Quantitative Momentum Strategy
+* Project 3 - Quantitative Value Strategy
+* Project 4 - Unsupervised Learning Trading Strategy
+* Project 5 - Twitter Sentiment Trading Strategy
+* Project 6 - Intraday GARCH Trading Strategy
 
-# If you are interested in connecting with me or my research:
-* Premium Discord Server - https://whop.com/quantfactory/
-* Premium Stocks Newsletter - https://quantfactory.substack.com/
-* See All Stocks I Buy/Sell Every Week on Patreon - https://www.patreon.com/luke_hardy
-* 20% OFF my Data Provider: https://utm.guru/uggdU
+
